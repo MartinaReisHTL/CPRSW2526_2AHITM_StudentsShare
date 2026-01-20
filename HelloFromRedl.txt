@@ -1,1 +1,5 @@
 "Hallo" 
+<<<<<<< HEAD
+=======
+Hi Gerri von Finn :-)
+>>>>>>> 9f34241a5697aae4bd35f170777820e7bdb77fd4
